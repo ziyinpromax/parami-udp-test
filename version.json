@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.6-test",
-  "apkUrl": "https://github.com/ziyinpromax/parami-udp-test/releases/download/v0.6-test/UdpTest.apk",
-  "notes": "v0.6 — TUN data-plane gate: CONNECTED မတိုင်ခင် TUN TCP probe (5s) — TCP မရောက်ရင် CONNECTED အလိမ်မပြ, named error + Log မှာ stage ပြ · TLS/HTTP diagnostic လိုင်း · dial-protect counter fix · Main/Test App မထိ"
+  "versionCode": 7,
+  "versionName": "0.7-test",
+  "apkUrl": "https://github.com/ziyinpromax/parami-udp-test/releases/download/v0.7-test/UdpTest.apk",
+  "notes": "v0.7 — TUN MTU 1400→1280 တစ်ချက်တည်း (Builder + sing-box နှစ်ဖက်လုံး): TCP ရပြီး TLS ရပ်သည့် MTU black-hole စမ်း · v0.6 gate မထိ · Main/Test App မထိ"
 }
