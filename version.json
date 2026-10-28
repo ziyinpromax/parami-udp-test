@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "0.9-test",
-  "apkUrl": "https://github.com/ziyinpromax/parami-udp-test/releases/download/v0.9-test/UdpTest.apk",
-  "notes": "v0.9 — stack system ပြန်ထား (tcp-ok baseline) + TUN HTTP diagnostic probe ထည့် (tcp/http/tls သုံးလိုင်း): plain data ရလား TLS ပဲ ရပ်လား ခွဲမယ် · v0.6 gate မထိ · Main/Test App မထိ"
+  "versionCode": 10,
+  "versionName": "0.10-test",
+  "apkUrl": "https://github.com/ziyinpromax/parami-udp-test/releases/download/v0.10-test/UdpTest.apk",
+  "notes": "v0.10 — SOCKS-loopback hop တစ်ချက်တည်း (config ပဲ): TUN→local SOCKS→Hysteria (vendor ပုံစံ + proxy-only ပုံစံ နှစ်ခုလုံး ကူး) · v0.6 gate မထိ · Main/Test App မထိ"
 }
