@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "0.11-test",
-  "apkUrl": "https://github.com/ziyinpromax/parami-udp-test/releases/download/v0.11-test/UdpTest.apk",
-  "notes": "v0.11 — diagnostic logging ပဲ (data path = v0.10 အတိုင်း): engine log trace + [ENG] လိုင်းတွေ Log ထဲမြင်ရမယ် (interface-kill vs TUN error ခွဲမယ်) · fix မဟုတ်, နောက် fix ကို ညွှန်မယ့် instrument · Main/Test App မထိ"
+  "versionCode": 12,
+  "versionName": "0.12-test",
+  "apkUrl": "https://github.com/ziyinpromax/parami-udp-test/releases/download/v0.12-test/UdpTest.apk",
+  "notes": "v0.12 — diagnostic ပဲ (data path = v0.11 အတိုင်း): HTTP probe connect vs read timeout ခွဲမယ် (tun http: tcp-timeout အသစ်) + engine log lines=<emitted> (file lines=<read>) · fix မဟုတ်, loop-not-polling vs whitelist-artifact ခွဲမယ့် instrument · Main/Test App မထိ"
 }
