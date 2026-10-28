@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "0.8-test",
-  "apkUrl": "https://github.com/ziyinpromax/parami-udp-test/releases/download/v0.8-test/UdpTest.apk",
-  "notes": "v0.8 — TUN stack system→gvisor တစ်ချက်တည်း (MTU 1280 baseline ထား): TCP ရပြီး TLS ရပ်သည့် system-stack TCP စမ်း · v0.6 gate မထိ · Main/Test App မထိ"
+  "versionCode": 9,
+  "versionName": "0.9-test",
+  "apkUrl": "https://github.com/ziyinpromax/parami-udp-test/releases/download/v0.9-test/UdpTest.apk",
+  "notes": "v0.9 — stack system ပြန်ထား (tcp-ok baseline) + TUN HTTP diagnostic probe ထည့် (tcp/http/tls သုံးလိုင်း): plain data ရလား TLS ပဲ ရပ်လား ခွဲမယ် · v0.6 gate မထိ · Main/Test App မထိ"
 }
