@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4-test",
-  "apkUrl": "https://github.com/ziyinpromax/parami-udp-test/releases/download/v0.4-test/UdpTest.apk",
-  "notes": "v0.4 — sing-box hysteria field ပြင် (version ဖြုတ် + obfs string + auth_str) · ZIVPN UDP single-port စမ်း · Main/Test App မထိ"
+  "versionCode": 5,
+  "versionName": "0.5-test",
+  "apkUrl": "https://github.com/ziyinpromax/parami-udp-test/releases/download/v0.5-test/UdpTest.apk",
+  "notes": "v0.5 — sing-box hysteria up/down speed အမြဲထည့် (default 100/100 Mbps, form မှာ ပြောင်းလို့ရ) · ZIVPN UDP single-port စမ်း · Main/Test App မထိ"
 }
